@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_6\\Lab_it_6.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94A1101C-5EEF-40D3-860A-3784A56A3160}|Lab_it_6.2\\Lab_it_6.2.vcxproj|C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_6\\Lab_it_6.2\\Lab_it_6.2\\Lab_it_6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94A1101C-5EEF-40D3-860A-3784A56A3160}|Lab_it_6.2\\Lab_it_6.2.vcxproj|solutionrelative:Lab_it_6.2\\Lab_it_6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_6\\Lab_it_6.2\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_6\\Lab_it_6.2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_6\\Lab_it_6.2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-28T21:23:06.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_it_6.2.cpp",
+              "DocumentMoniker": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_6\\Lab_it_6.2\\Lab_it_6.2\\Lab_it_6.2.cpp",
+              "RelativeDocumentMoniker": "Lab_it_6.2\\Lab_it_6.2.cpp",
+              "ToolTip": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_6\\Lab_it_6.2\\Lab_it_6.2\\Lab_it_6.2.cpp",
+              "RelativeToolTip": "Lab_it_6.2\\Lab_it_6.2.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-28T21:21:10.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
